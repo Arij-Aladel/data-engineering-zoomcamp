@@ -151,3 +151,7 @@ See [here](../cohorts/2023/week_2_workflow_orchestration#community-notes)
 ## 2022 notes
 
 See [here](../cohorts/2022/week_2_data_ingestion#community-notes)
+
+# Homework
+
+I have changed the docker-compose to create the magic-zoomcamp-homework. That is why the soltion can be found in the folder **magic-zoomcamp-homework**
